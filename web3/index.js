@@ -1,4 +1,4 @@
-// load network.js to get network/chain id
+// load network.js to get network/chain id   
 document.body.appendChild(Object.assign(document.createElement("script"), { type: "text/javascript", src: "./network.js" }));
 // load web3modal to connect to wallet
 document.body.appendChild(Object.assign(document.createElement("script"), { type: "text/javascript", src: "./web3/lib/web3modal.js" }));
